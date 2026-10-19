@@ -34,7 +34,6 @@ Focused on bare-metal systems, kernel-space drivers, binary reverse engineering,
 ![x86-64 ASM](https://img.shields.io/badge/x86__64_Assembly-FF6600?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust_FFI-DEA584?style=for-the-badge&logo=rust&logoColor=black)
 
 ### Systems & OS Internals
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel_LKM_%2F_DKMS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,13 +44,10 @@ Focused on bare-metal systems, kernel-space drivers, binary reverse engineering,
 
 ### Reverse Engineering & Binary Forensics
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro_9.x-003366?style=for-the-badge&logo=binary&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-292929?style=for-the-badge&logo=nsa&logoColor=white)
 ![Recaf](https://img.shields.io/badge/Recaf_JVM_Bytecode-4A154B?style=for-the-badge)
-![WinDbg](https://img.shields.io/badge/WinDbg-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![Binary Containers](https://img.shields.io/badge/IoStore_UTOC_%2F_PE_Parsing-8B0000?style=for-the-badge)
 
 ### Engine Internals, Hooking & Graphics
-![Source 2](https://img.shields.io/badge/Source_2_Schema_%2F_Offsets-E63946?style=for-the-badge)
 ![DirectX 11](https://img.shields.io/badge/DirectX_11-0078D7?style=for-the-badge)
 ![ImGui](https://img.shields.io/badge/ImGui-7B2CBF?style=for-the-badge)
 ![MinHook / VMT](https://img.shields.io/badge/MinHook_%2F_VMT_Hooking-38B000?style=for-the-badge)
@@ -61,7 +57,6 @@ Focused on bare-metal systems, kernel-space drivers, binary reverse engineering,
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge)
 ![CUDA / cuDNN](https://img.shields.io/badge/NVIDIA_CUDA_%2F_cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Qt 6](https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Kbuild / CMake](https://img.shields.io/badge/Kbuild_%2F_CMake-6A5ACD?style=for-the-badge)
 
 </div>
